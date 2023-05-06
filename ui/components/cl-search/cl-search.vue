@@ -20,6 +20,7 @@
 				:confirm-hold="confirmHold"
 				:adjust-position="adjustPosition"
 				:holdKeyboard="holdKeyboard"
+				:border="false"
 				round
 				@input="onInput"
 				@focus="onFocus"
